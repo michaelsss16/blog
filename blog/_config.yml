@@ -1,0 +1,52 @@
+title: Michael Silva
+email: michaelsss16@gmail.com
+description: >-
+  Site pessoal para apresentação de evolução técnica e assuntos abordados em canal youtube.
+
+# Configurações de URL
+baseurl: "/blog" 
+url: "https://michaelsss16.github.io/" 
+
+# Configurações do Tema Minima
+theme: minima
+minima:
+  skin: dark
+
+# Redes Sociais e Contato
+github_username: michaelsss16
+instagram_username: michael_silva_s_s
+youtube_username: seu_canal
+
+# Configuração de Comentários (Disqus)
+disqus:
+  shortname: michael-silva-tech
+
+# Configurações dos Plugins Adicionais
+jekyll-archives:
+  enabled: ['categories', 'tags']
+  layout: 'archive'
+  permalinks:
+    category: '/category/:name/'
+    tag: '/tag/:name/'
+
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-admin
+  - jekyll-toc
+  - jekyll-archives
+  - jekyll-reading-time
+
+# Exclude from processing.
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
