@@ -1,7 +1,6 @@
 title: Michael Silva
 email: michaelsss16@gmail.com
-description: >-
-  Site pessoal para apresentação de evolução técnica e assuntos abordados em canal youtube.
+description: Site pessoal para apresentação de evolução técnica e assuntos abordados em canal youtube.
 
 # Configurações de URL
 baseurl: "/blog" 
@@ -13,9 +12,9 @@ minima:
   skin: dark
 
 # Redes Sociais e Contato
+
 github_username: michaelsss16
 instagram_username: michael_silva_s_s
-youtube_username: seu_canal
 
 # Configuração de Comentários (Disqus)
 disqus:

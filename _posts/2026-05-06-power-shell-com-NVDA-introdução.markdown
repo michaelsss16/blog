@@ -2,7 +2,7 @@
 layout: post
 title:  "Power Shell com leitor de tela NVDA: introdução"
 date:   2026-05-06 20:35:05 -0300
-categories: powershell, NVDA
+categories: powershell nvda
 ---
 
 Neste artigo, você aprenderá sobre o que é o PowerShell, como utilizá-lo com o leitor de tela NVDA, de forma totalmente acessível, além dos seus primeiros comandos para dominar essa ferramenta.

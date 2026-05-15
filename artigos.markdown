@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Artigos
+permalink: /artigos/
 ---
 
 # Artigos
