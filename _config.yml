@@ -14,17 +14,19 @@ minima:
 # Redes Sociais e Contato
 
 # Redes Sociais e Contato
+youtube_username: "@michaelsilvatech"
+linkedin_username: michael-s-209b0b114
 github_username: michaelsss16
 instagram_username: michael_silva_s_s
-youtube_username: "@michaelsilvatech"
 
 # Configuração de SEO para Redes Sociais
 social:
   links:
     - https://www.youtube.com/@michaelsilvatech
     - https://github.com/michaelsss16
+    - https://www.linkedin.com/in/michael-s-209b0b114
     - https://www.instagram.com/michael_silva_s_s
-    
+
 # Configuração de Comentários (Disqus)
 disqus:
   shortname: michael-silva-tech
