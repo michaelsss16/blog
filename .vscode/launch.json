@@ -2,16 +2,10 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Jekyll Serve",
-            "type": "ruby",
+            "name": "Executar Jekyll",
+            "type": "node", // Tipo genérico apenas para satisfazer o VS Code
             "request": "launch",
-            "program": "bundle",
-            "args": [
-                "exec",
-                "jekyll",
-                "serve",
-                "--livereload"
-            ]
+            "preLaunchTask": "Jekyll Serve"
         }
     ]
 }
