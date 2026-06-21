@@ -81,6 +81,10 @@ Este projeto pode ser publicado no GitHub Pages. O fluxo típico é:
 
 ## Tarefas importantes para um blog pessoal profissional de programação
 
+- Google analitcs 
+- Discuss
+- Configuração dos plugins
+- Restringir artigosmostrados em menu principal
 - [ ] Organizar e documentar a arquitetura de pastas e o fluxo de publicação de posts
 - [ ] Criar e padronizar um template de front matter para artigos (`title`, `date`, `categories`, `tags`, `excerpt`)
 - [ ] Ajustar e melhorar a navegação entre páginas principais, categorias e tags
