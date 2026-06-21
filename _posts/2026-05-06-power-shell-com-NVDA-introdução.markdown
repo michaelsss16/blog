@@ -5,8 +5,6 @@ date:   2026-05-06 20:35:05 -0300
 categories: powershell nvda
 ---
 
-**Tempo estimado de leitura: {{ page.content | reading_time }}**
-
 Neste artigo, você aprenderá sobre o que é o PowerShell, como utilizá-lo com o leitor de tela NVDA, de forma totalmente acessível, além dos seus primeiros comandos para dominar essa ferramenta.
 
 ## Conteúdo disponível em vídeo
