@@ -12,6 +12,14 @@ layout: default
       <p class="post-meta">{{ page.date | date: "%-d" }} de {{ meses[mes_index] }} de {{ page.date | date: "%Y" }}</p>
       
       <p class="post-reading-time">Tempo de leitura: {{ page.content | reading_time | replace: 'minutes', 'minutos' | replace: 'minute', 'minuto' }}</p>
+
+      {% if page.categories and page.categories.size > 0 %}
+      <p class="post-categories">Categorias:
+        {% for category in page.categories %}
+          <a href="{{ site.baseurl }}/category/{{ category | slugify }}/">{{ category }}</a>{% if forloop.last == false %}, {% endif %}
+        {% endfor %}
+      </p>
+      {% endif %}
   </header>
 
   <div class="post-content">

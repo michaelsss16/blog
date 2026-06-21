@@ -3,8 +3,8 @@
 - Ajustar marcos
 - Place holders nos links de social
 - Ir para região principal
-- Ajustar para pt br
-- Parte de posts repetida no início
+- Motivo que pasta artigos é criada?
+- Endpoint categorias
 
 ## Tarefas importantes 
 
