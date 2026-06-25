@@ -1,5 +1,6 @@
 ## Tarefas priorizadas
 
+- artigo profile: ajustar formato de caracteres na saída e profile completo 
 - Ajustar marcos
 - Place holders nos links de social
 - Ir para região principal
