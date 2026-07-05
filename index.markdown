@@ -1,10 +1,21 @@
 ---
-layout: home
+layout: default
 ---
 
 ## Bem-vindo ao meu blog pessoal!
 
 Este é um site dedicado a compartilhar meu progresso pessoal, conhecimento sobre tecnologia, programação e acessibilidade.
+
+## Últimos posts
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <span> — {{ post.date | date: "%d/%m/%Y" }}</span>
+    </li>
+  {% endfor %}
+</ul>
 
 ## Vídeo mais recente do canal
 
