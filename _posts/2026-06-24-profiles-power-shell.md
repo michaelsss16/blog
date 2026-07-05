@@ -2,7 +2,7 @@
 layout: post
 title:  "Profiles no Power Shell"
 date:   2026-06-24 20:35:05 -0300
-categories: powershell nvda
+categories: powershell 
 ---
 
 Neste artigo você vai aprender a configurar profiles no PowerShell para criar métodos personalizados, facilitando ações manuais e criação de prompts para LLMs com o contexto de branches do Git.
