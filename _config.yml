@@ -8,6 +8,7 @@ url: "https://michaelsss16.github.io/"
 
 # Configurações do Tema Minima
 theme: minima
+lang: pt-BR
 minima:
   skin: dark
 
