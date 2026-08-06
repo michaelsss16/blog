@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "inclusão e acessibilidade para deficientes visuais na formação acadêmica"
-date:   2026-07-05 20:35:05 -0300
+date:   2026-08-05 20:35:05 -0300
 categories: GuiaDeEstudos
 ---
 
