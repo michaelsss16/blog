@@ -12,16 +12,31 @@ categories: GuiaDeEstudos
 3. Bloco 1: Fundamentos da Inclusão e Comunicação em sala de aula
 4. Bloco 2: tecnologia da informação e a acessibilidade para os leitores de tela
 5. Bloco 3: autonomia, apoio de amigos e familiares
-6. Bloco 4: materiais extras e conclusões
+6. Bloco 4: materiais complementares
 7. Dúvidas e perguntas
+
+## Sobre mim
+
+Em relação a minha carreira acadêmica e atuações, destaco:
+
+- Técnico em automação industrial - COLTEC (2014 - 2016)
+- Bacharel em engenharia de controle e automação - UFMG (2017 - 2023)
+- Analista de sistemas - Dti digital (2020 - presente)
+- Coordenador e professor de projeto social de musicalização (2024 - presente)
+
+Trajetória da perda de visão:
+
+- 2015: Perda súbita da visão esquerda por atrofia do nervo óptico
+- 2018: perda gradual da visão direita, tornando-me baixa visão.
+- 2019/2020: perda total da visão, tornando-me cego.
 
 ## Termos importantes
 
+- DV: pessoa com deficiência visual, que pode ser cega ou possuir baixa visão.
 -  Vidente ou enxergante: pessoa que possui visão funcional, sem deficiência visual.
 - Leitor de tela: software que interpreta o conteúdo da tela e o transforma em áudio ou braille, permitindo que pessoas com deficiência visual acessem informações digitais.
 - NVDA: leitor de tela gratuito e de código aberto, amplamente utilizado por pessoas com deficiência visual.
 - NAI : núcleo de acessibilidade e inclusão.
-- NTI: núcleo de tecnologia da informação.
 
 ## Bloco 1: Fundamentos da Inclusão e Comunicação em sala de aula
 
@@ -61,7 +76,7 @@ Exemplos de adaptações possíveis:
 As provas do ENEM são ótimos exemplos de avaliações inclusivas. A versão para ledores e leitores possuem as adaptações anteriormente citadas.
 Exemplo de descrição:
 
-``` plantext
+``` plaintext
 Descrição do mapa: Intitulado "Concentração de CO2 por queimadas entre África e Brasil em 30 de agosto de 2019", o mapa apresenta, a partir de imagens de satélite, a concentração de CO2, em partes por bilhão em volume, representada por uma grande mancha que cobre parte do continente americano, do Oceano Atlântico e do continente africano. As cores da legenda indicam que a maior concentração de CO2 está no centro-norte do Brasil e no centro-sul do continente africano.
 
 Concentração de CO2 por queimadas entre África e Brasil em 30 de agosto de 2019
@@ -127,8 +142,15 @@ Alguns programas, inclusive, possuem modos de acessibilidade. Basta ativá-los p
 - VS Code: editor que pode exigir ativação manual de algumas janelas para melhor usabilidade com leitor de tela.
 - Suíte de aplicativos Google: conjunto de ferramentas com boa acessibilidade para leitura e navegação.
 
-> - ativado automaticamente
-> ** ativação manual somente para algumas janelas
+Outros, entretanto, não podem ser utilizados com leitores de tela de forma alguma.
+
+### Inteligencia artificial e acessibilidade
+
+Recomendo que o aluno aprenda a utilizar todas as ferramentas de inteligência artificial que possam ajudá-lo a superar barreiras de acessibilidade. Os pontos que mais me ajudaram foram:
+
+- Imagens: descrição de imagens, gráficos e diagramas, ainda que seja necessário validar o resultado com pessoas videntes.
+- Texto: conversão de documentos para formatos acessíveis e geração de resumos, muitas vezes mais eficiente do que o OCR tradicional.
+- Transcrição de áudio: transcrição de áudios e vídeos para texto, facilitando a leitura pelo leitor de tela e a recuperação de conteúdos perdidos em aula.
 
 ## Bloco 3: autonomia, apoio de amigos e familiares
 
@@ -142,21 +164,11 @@ O papel dos monitores e colegas é de facilitação, não de execução. O estud
 
 ### Familiares e amigos
 
-Serão um dos pilares mais importantes nessa jornada de ensino médio. A carga pisciológica será grande e o apoio dos familiares será fundamental.
+Serão um dos pilares mais importantes nessa jornada de ensino médio. A carga psicológica será grande e o apoio dos familiares será fundamental.
 Quando passei pela mesma situação, me auxiliaram muito com: leitura de materiais não acessíveis, resolução de exercícios enquanto eu aprendia as ferramentas de acessibilidade e busca de alternativas para os problemas de acessibilidade que eu enfrentava no dia a dia.
-No colégio, os amigos poderão auxiliar com descontração entre aulas, que é muito importante, deslocamentos, repasse de materiais, etc. Incentivo muito apoiar e ser apoiado pelos amigos durante essa jornada.
+No colégio, os amigos poderão auxiliar com repasse de materiais, auxílio em atividades práticas, obtenção de informações em materiais não acessíveis e apoio emocional. A presença de amigos e familiares é fundamental para o sucesso do estudante com deficiência visual.
 
-### A.I
-
-recomendo que o aluno aprenda a utilizar todas as ferramentas de inteligência artificial que possam ajudá-lo a superar barreiras de acessibilidade. Os pontos que mais me ajudaram foram:
-
-- Imagens: descrição de imagens, gráficos e diagramas, ainda que seja necessário validar o resultado com pessoas videntes.
-- Texto: conversão de documentos para formatos acessíveis e geração de resumos, muitas vezes mais eficiente do que o OCR tradicional.
-- Transcrição de áudio: transcrição de áudios e vídeos para texto, facilitando a leitura pelo leitor de tela e a recuperação de conteúdos perdidos em aula.
-
-## Bloco 4:  materiais extras e conclusões
-
-## Materiais extras
+## Bloco 4: materiais complementares
 
 - [Podcast entre chaves - como promover a acessibilidade na área de tecnologia](https://www.youtube.com/watch?v=Q4mld-1uRpI): conversa sobre acessibilidade na área de tecnologia.
 - [Introdução à audiodescrição em sala de aula](https://repositorio.ufmg.br/server/api/core/bitstreams/d6fcf8ea-59f6-44f8-ad5f-e130975267b3/content): material de apoio sobre audiodescrição em sala de aula.
@@ -165,3 +177,6 @@ recomendo que o aluno aprenda a utilizar todas as ferramentas de inteligência a
 - [Palestra - Creating and Reading Accessible Math](https://youtu.be/wufqq72hhcM?si=RixwoS478n1CtbjS): apresentação sobre fluxos de trabalho para tornar conteúdos matemáticos acessíveis.
 - [Complemento NVDA - NECESSÁRIO PARA LER CONTEÚDOS MATEMÁTICOS](https://www.youtube.com/watch?v=6F3vyYQLR5U&t=2s): apresentação do complemento Access8Math para navegação detalhada de fórmulas matemáticas.
   
+  ## Conclusão
+
+A inclusão acadêmica para estudantes com deficiência visual vai muito além da adaptação de materiais. Trata-se de construir autonomia do indivíduo. Quando combinamos o uso eficiente de tecnologias assistivas com a empatia e o preparo prático de professores, monitores e familiares, deixamos de focar nas barreiras e passamos a focar no aluno. O objetivo final de todas as ferramentas e metodologias apresentadas aqui não é facilitar excessivamente ou entregar o conhecimento pronto, mas sim garantir que o estudante tenha as condições e ferramentas necessárias para criar seu próprio caminho na busca por conhecimento.
