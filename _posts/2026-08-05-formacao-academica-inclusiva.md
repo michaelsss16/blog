@@ -33,14 +33,14 @@ Trajetória da perda de visão:
 ## Termos importantes
 
 - DV: pessoa com deficiência visual, que pode ser cega ou possuir baixa visão.
--  Vidente ou enxergante: pessoa que possui visão funcional, sem deficiência visual.
+   Vidente ou enxergante: pessoa que possui visão funcional, sem deficiência visual.
 - Leitor de tela: software que interpreta o conteúdo da tela e o transforma em áudio ou braille, permitindo que pessoas com deficiência visual acessem informações digitais.
 - NVDA: leitor de tela gratuito e de código aberto, amplamente utilizado por pessoas com deficiência visual.
 - NAI : núcleo de acessibilidade e inclusão.
 
 ## Bloco 1: Fundamentos da Inclusão e Comunicação em sala de aula
 
-### 1. Cuidados essenciais do professor na comunicação em sala de aula
+### Cuidados essenciais do professor na comunicação em sala de aula
 
 - Compreensão das demandas: entender as demandas do DV é o passo mais importante para a inclusão e promoção da acessibilidade, pois uma barreira de acessibilidade só pode ser vencida se bem delimitada.
 - Linguagem acessível: evitar expressões que dependam exclusivamente da visão para serem compreendidas, como “o do lado” ou “esse”, garantindo que a explicação seja acessível para pessoas com deficiência visual.
@@ -100,7 +100,7 @@ E Ausência de frentes frias.
 - Documentos Word: uso de documentos Word para inserção de fórmulas matemáticas que podem ser lidas pelo leitor de tela, embora exijam maior domínio da ferramenta.
 - Notação MathML/LaTeX: uso de conteúdos matemáticos escritos em arquivos .html e .md, avaliando com o aluno se isso é prático no fluxo de estudos.
 
-Dica essencial: Para ler equações web/MathML, o NVDA precisa da instalação de complementos específicos, como o MathPlayer ou o Access8Math, que permitem ao estudante navegar dentro da fórmula (exploração contextual).   Saiba mais
+Dica essencial: Para ler equações web/MathML, o NVDA precisa da instalação de complementos específicos, como o MathPlayer ou o Access8Math, que permitem ao estudante navegar dentro da fórmula (exploração contextual).
 
 Independentemente do modo utilizado pelo aluno, recomendo a presença de pessoas videntes em contextos críticos: avaliações, resoluções de trabalhos, atividades avaliativas e primeiro contato com a matéria.
 
@@ -180,3 +180,5 @@ No colégio, os amigos poderão auxiliar com repasse de materiais, auxílio em a
   ## Conclusão
 
 A inclusão acadêmica para estudantes com deficiência visual vai muito além da adaptação de materiais. Trata-se de construir autonomia do indivíduo. Quando combinamos o uso eficiente de tecnologias assistivas com a empatia e o preparo prático de professores, monitores e familiares, deixamos de focar nas barreiras e passamos a focar no aluno. O objetivo final de todas as ferramentas e metodologias apresentadas aqui não é facilitar excessivamente ou entregar o conhecimento pronto, mas sim garantir que o estudante tenha as condições e ferramentas necessárias para criar seu próprio caminho na busca por conhecimento.
+
+<p><img src="image.png" alt="Qr code" width="300" /></p>
