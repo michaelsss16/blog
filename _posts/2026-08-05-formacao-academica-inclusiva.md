@@ -180,5 +180,3 @@ No colégio, os amigos poderão auxiliar com repasse de materiais, auxílio em a
   ## Conclusão
 
 A inclusão acadêmica para estudantes com deficiência visual vai muito além da adaptação de materiais. Trata-se de construir autonomia do indivíduo. Quando combinamos o uso eficiente de tecnologias assistivas com a empatia e o preparo prático de professores, monitores e familiares, deixamos de focar nas barreiras e passamos a focar no aluno. O objetivo final de todas as ferramentas e metodologias apresentadas aqui não é facilitar excessivamente ou entregar o conhecimento pronto, mas sim garantir que o estudante tenha as condições e ferramentas necessárias para criar seu próprio caminho na busca por conhecimento.
-
-<p><img src="image.png" alt="Qr code" width="300" /></p>
